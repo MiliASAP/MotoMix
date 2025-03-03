@@ -1,0 +1,569 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\manage\\resetauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\manage\\resetauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\loginwith2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\loginwith2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\manage\\externallogins.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\manage\\externallogins.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\manage\\generaterecoverycodes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\manage\\generaterecoverycodes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\manage\\disable2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\manage\\disable2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\confirmemailchange.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\confirmemailchange.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\data\\motomixdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\data\\motomixdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\models\\identityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\models\\identityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|c:\\users\\likei\\onedrive\\pulpit\\asp.net\\motomix\\motomix\\migrations\\20250303165002_identitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD236C0-3AF7-4EB4-B4B8-7D4E9FE270CF}|MotoMix\\MotoMix.csproj|solutionrelative:motomix\\migrations\\20250303165002_identitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:14:36.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:11:59.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:11:53.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExternalLogins.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:11:47.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenerateRecoveryCodes.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:11:44.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResetAuthenticator.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAawDsAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:42:23.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWith2fa.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAawH0AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:42:01.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWithRecoveryCode.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAIA3wGsAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:42:17.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnableAuthenticator.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:11:35.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Email.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:11:32.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DownloadPersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:11:27.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Disable2fa.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:11:23.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeletePersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:11:19.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChangePassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:11:15.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConfirmEmail.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:11:05.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConfirmEmailChange.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:11:01.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExternalLogin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:10:57.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:10:49.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:10:36.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:10:12.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ManageNavPages.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:49:23.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MotoMix\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MotoMix\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T16:49:12.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "MotoMix\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "MotoMix\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T16:45:30.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MotoMixDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Data\\MotoMixDbContext.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Data\\MotoMixDbContext.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Data\\MotoMixDbContext.cs",
+              "RelativeToolTip": "MotoMix\\Data\\MotoMixDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:27:08.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T16:49:27.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "MotoMix\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:51:24.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250303165002_IdentityMigration.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Migrations\\20250303165002_IdentityMigration.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Migrations\\20250303165002_IdentityMigration.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Migrations\\20250303165002_IdentityMigration.cs",
+              "RelativeToolTip": "MotoMix\\Migrations\\20250303165002_IdentityMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:50:02.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MotoMix\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MotoMix\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-03T16:41:45.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MotoMix\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:39:33.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IdentityUser.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Models\\IdentityUser.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Models\\IdentityUser.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Models\\IdentityUser.cs",
+              "RelativeToolTip": "MotoMix\\Models\\IdentityUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:23:13.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Program.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Program.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Program.cs",
+              "RelativeToolTip": "MotoMix\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:13:24.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MotoMix\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MotoMix\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T16:43:23.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\appsettings.json",
+              "RelativeDocumentMoniker": "MotoMix\\appsettings.json",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\appsettings.json",
+              "RelativeToolTip": "MotoMix\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T16:13:26.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "MotoMix\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\likei\\OneDrive\\Pulpit\\ASP.NET\\MotoMix\\MotoMix\\Models\\Car.cs",
+              "RelativeToolTip": "MotoMix\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:17:19.498Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
